@@ -1,3 +1,6 @@
+import sys
+sys.path.append("/Users/linus/Desktop/slow-is-fast/manimgl_1.5.0/3b1b-videos-master")
+
 from manim_imports_ext import *
 from _2022.quintic.roots_and_coefs import *
 
